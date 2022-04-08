@@ -1,0 +1,12 @@
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\bin\Debug\net5.0\CleanArchitecture.Domain.deps.json
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\bin\Debug\net5.0\CleanArchitecture.Domain.dll
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.dll
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\refint\CleanArchitecture.Domain.dll
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\CleanArchitecture.Domain.pdb
+C:\Users\akmaL199601\Desktop\project\web\Clear\ArchitectureSln\DotNetCore-Clean-ArchitectureSln\CleanArchitecture.Domain\obj\Debug\net5.0\ref\CleanArchitecture.Domain.dll
